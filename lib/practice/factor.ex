@@ -1,9 +1,7 @@
 defmodule Practice.Factor do
 
   def factor(x) do
-    {x, ""} = Integer.parse(x)
-    primes = factorize(x, 2, [])
-    inspect(primes)
+    inspect(factorize(x, 2, []))
   end
 
   defp factorize(x, factor, factor_list) when x < factor do
