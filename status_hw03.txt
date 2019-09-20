@@ -14,6 +14,10 @@ Please fill in answers to the questions below:
    Add the factor, arithmetric calculation and palindrome
    Also deployed in the prod env
    Basically all the required tasks.
+   The only thing i didn't get to work is that I was
+   not able to keep the site up after logout. 
+   But when I run ./deploy.sh script on the debian 
+   machine, it totally worked.
 
 5. Did you successfully deploy? If not, what's broken?
    Yes I did.
