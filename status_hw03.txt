@@ -1,0 +1,39 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+   Lingmiao Qiu
+
+2. What hostname did you deploy to?
+   hw03.lingmweb.site
+
+3. What's the URL of your git repo?
+   https://github.com/LingMQ/WebHW03
+
+4. How much of the functionality did you complete?
+   Add the factor, arithmetric calculation and palindrome
+   Also deployed in the prod env
+   Basically all the required tasks.
+
+5. Did you successfully deploy? If not, what's broken?
+   Yes I did.
+
+6. How comfortable do you feel with Elixir now?
+   I have some knowledge about Elixir.
+   But still take long time to code.
+   
+
+7. Which parts of this assignment did you have trouble with, if any?
+   Write the code in Elixir and deployment.
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
