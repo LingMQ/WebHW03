@@ -17,7 +17,9 @@ Please fill in answers to the questions below:
    The only thing i didn't get to work is that I was
    not able to keep the site up after logout. 
    But when I run ./deploy.sh script on the debian 
-   machine, it totally worked.
+   machine, it totally worked. I followed the instruction
+   in the piazza (register app as a service), and made sure
+   the start.sh is correct. 
 
 5. Did you successfully deploy? If not, what's broken?
    Yes I did.
